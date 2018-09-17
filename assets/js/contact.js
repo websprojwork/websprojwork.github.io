@@ -1,0 +1,3 @@
+function onSubmitMessage(){
+alert("Sent!");
+}
